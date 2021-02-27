@@ -1,0 +1,8 @@
+::ng-deep .bdrop {
+    background-color:none;
+    background-blend-mode: lighten;
+    backdrop-filter: blur(10px);
+    padding: none;
+    color: black;
+    overflow: 'hidden'
+}
